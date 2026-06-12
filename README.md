@@ -1,4 +1,4 @@
-# SQL DDL Assignment - Commands & Constraints
+# SQL DDL - Commands & Constraints
 
 ## Overview
 
